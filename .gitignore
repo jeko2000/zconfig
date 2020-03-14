@@ -1,0 +1,11 @@
+*.dx32fsl
+*.dx64fsl
+*.fas
+*.fasl
+*.lib
+*.lx32fsl
+*.lx64fsl
+*.x86f
+
+# emacs backup
+*~
